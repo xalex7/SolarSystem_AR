@@ -7,19 +7,19 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		95AFE529245406C7000D63C5 /* Planets.rcproject in Sources */ = {isa = PBXBuildFile; fileRef = 95AFE528245406C7000D63C5 /* Planets.rcproject */; };
 		95E75DA2245402D500AEEB3E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95E75DA1245402D500AEEB3E /* AppDelegate.swift */; };
 		95E75DA4245402D500AEEB3E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95E75DA3245402D500AEEB3E /* ViewController.swift */; };
-		95E75DA6245402D500AEEB3E /* Experience.rcproject in Sources */ = {isa = PBXBuildFile; fileRef = 95E75DA5245402D500AEEB3E /* Experience.rcproject */; };
 		95E75DA9245402D500AEEB3E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 95E75DA7245402D500AEEB3E /* Main.storyboard */; };
 		95E75DAB245402D600AEEB3E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 95E75DAA245402D600AEEB3E /* Assets.xcassets */; };
 		95E75DAE245402D600AEEB3E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 95E75DAC245402D600AEEB3E /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		95AFE528245406C7000D63C5 /* Planets.rcproject */ = {isa = PBXFileReference; lastKnownFileType = file.rcproject; path = Planets.rcproject; sourceTree = "<group>"; };
 		95E75D9E245402D500AEEB3E /* Solar System.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Solar System.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		95E75DA1245402D500AEEB3E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		95E75DA3245402D500AEEB3E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		95E75DA5245402D500AEEB3E /* Experience.rcproject */ = {isa = PBXFileReference; lastKnownFileType = file.rcproject; path = Experience.rcproject; sourceTree = "<group>"; };
 		95E75DA8245402D500AEEB3E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		95E75DAA245402D600AEEB3E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		95E75DAD245402D600AEEB3E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -58,8 +58,8 @@
 			children = (
 				95E75DA1245402D500AEEB3E /* AppDelegate.swift */,
 				95E75DA3245402D500AEEB3E /* ViewController.swift */,
-				95E75DA5245402D500AEEB3E /* Experience.rcproject */,
 				95E75DA7245402D500AEEB3E /* Main.storyboard */,
+				95AFE528245406C7000D63C5 /* Planets.rcproject */,
 				95E75DAA245402D600AEEB3E /* Assets.xcassets */,
 				95E75DAC245402D600AEEB3E /* LaunchScreen.storyboard */,
 				95E75DAF245402D600AEEB3E /* Info.plist */,
@@ -140,7 +140,7 @@
 			files = (
 				95E75DA4245402D500AEEB3E /* ViewController.swift in Sources */,
 				95E75DA2245402D500AEEB3E /* AppDelegate.swift in Sources */,
-				95E75DA6245402D500AEEB3E /* Experience.rcproject in Sources */,
+				95AFE529245406C7000D63C5 /* Planets.rcproject in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -285,6 +285,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 4ZC85J53SW;
 				INFOPLIST_FILE = "Solar System/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -302,6 +303,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 4ZC85J53SW;
 				INFOPLIST_FILE = "Solar System/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",

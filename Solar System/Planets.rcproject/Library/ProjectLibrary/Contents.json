@@ -1,0 +1,47 @@
+[
+  {
+    "libraryIdentifier" : "c7f766b2f6b5d89885d7b8efe335c390",
+    "format" : "model",
+    "displayName" : "sun.usdz"
+  },
+  {
+    "libraryIdentifier" : "9e6e684512115aed6d8871f3afcc1cd0",
+    "format" : "model",
+    "displayName" : "mercury.usdz"
+  },
+  {
+    "libraryIdentifier" : "f63b733a4c69864c0d6d1522d7ccf936",
+    "format" : "model",
+    "displayName" : "venus.usdz"
+  },
+  {
+    "libraryIdentifier" : "1030aab3e7cc5fa90dd74bb8a4029704",
+    "format" : "model",
+    "displayName" : "earth.usdz"
+  },
+  {
+    "libraryIdentifier" : "a2abb29b5e8a2f04fe18919553857eab",
+    "format" : "model",
+    "displayName" : "mars.usdz"
+  },
+  {
+    "libraryIdentifier" : "14bc0ca422eafd67b578e70c7c76128c",
+    "format" : "model",
+    "displayName" : "jupiter.usdz"
+  },
+  {
+    "libraryIdentifier" : "6fbe62d266462516b747a2ab23e2988b",
+    "format" : "model",
+    "displayName" : "saturn.usdz"
+  },
+  {
+    "libraryIdentifier" : "4a5788e41738a1f7d7954412db7f207f",
+    "format" : "model",
+    "displayName" : "neptune.usdz"
+  },
+  {
+    "libraryIdentifier" : "55a36592d24795f673bc5acf1f6588a5",
+    "format" : "model",
+    "displayName" : "uranus.usdz"
+  }
+]
